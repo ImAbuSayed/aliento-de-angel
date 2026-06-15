@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/aliento-de-angel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Aliento de ángel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aliento-de-angel/) |
+| **Get License** | [Obtain a Music License for Aliento de ángel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aliento-de-angel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `617700428bb092fc64168035c09dafe06a5b4314700428425939195b325b8b3d` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

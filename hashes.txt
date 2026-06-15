@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Aliento de ángel
+
+This log tracks the cryptographic history and versioning for the song **Aliento de ángel** (aliento-de-angel).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T23:13:00.346265 | `v1` | `617700428bb092fc64168035c09dafe06a5b4314700428425939195b325b8b3d` | `33a6ad66b39f94fe5f0a7bfb0443f3e789e3145362b961999241fa3cb71aed17` | `2026-06-15_aliento-de-angel-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
