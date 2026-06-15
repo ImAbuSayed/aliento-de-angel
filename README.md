@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/aliento-de-angel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Aliento de ángel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aliento-de-angel/) |
+| **Get License** | [License this song: Aliento de ángel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aliento-de-angel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tú tienes un aura que me roba la respiración
+> Un aliento de ángel, mi pura perdición
+> Mami, acércate, la noche es pa' los dos
+> En lo oscuro de la sala bailamos sin control
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
